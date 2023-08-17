@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../javascript"
+		},
+		{
+			"path": "../clock"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "clock"
+	}
+}
